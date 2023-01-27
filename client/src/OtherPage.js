@@ -7,9 +7,9 @@ export default () => {
       
       <Link to="/">Go back to MULTIFIB</Link>
       <div>
-      MULTIFIB
-      Weronika Wach
-      GR 2.3
+      MULTIFIB </div>
+      <div>Weronika Wach </div>
+      <div>GR 2.3
       </div>
     </div>
   );
