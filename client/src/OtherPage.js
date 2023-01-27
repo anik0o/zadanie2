@@ -6,7 +6,7 @@ export default () => {
     <div>
       
       <Link to="/">Go back to MULTIFIB</Link>
-      <div>MULTIFIB </div>
+      <div> MULTIFIB </div>
       <div>Weronika Wach </div>
       <div>GR 2.3
       </div>
